@@ -1,3 +1,3 @@
-class BankAccount
-
+lass BankAccount
+  def initialize()
 end
